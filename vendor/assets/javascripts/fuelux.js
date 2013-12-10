@@ -5,7 +5,6 @@
 //= require fuelux/datepicker
 //= require fuelux/intelligent-dropdown
 //= require fuelux/pillbox
-//= require fuelux/loader
 //= require fuelux/radio
 //= require fuelux/scheduler
 //= require fuelux/search

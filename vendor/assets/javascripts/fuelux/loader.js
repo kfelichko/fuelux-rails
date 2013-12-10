@@ -6,8 +6,3 @@
  * Licensed under the MIT license.
  */
 
-!function ($) {
-
-!function ($) {
-
-
