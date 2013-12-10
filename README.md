@@ -14,7 +14,7 @@ gem "fuelux-rails"
 or you can install from latest build;
 
 ```ruby
-gem 'fuelux-rails', :git => 'git://github.com/stephenbaldwin/fuelux-rails.git'
+gem 'fuelux-rails', :git => 'git://github.com/kfelichko/fuelux-rails.git'
 ```
 
 You can run bundle from command line
