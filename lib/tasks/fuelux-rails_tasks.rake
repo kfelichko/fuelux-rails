@@ -15,8 +15,8 @@ namespace :fuelux_rails do
 	SCRIPTS_REPO = "https://raw.github.com/ExactTarget/fuelux/%s/src/%s.js"
 	SCRIPTS_PATH = "./vendor/assets/javascripts/fuelux/%s.js"
 
-	SCRIPTS = %w( util checkbox combobox datagrid intelligent-dropdown pillbox 
-								radio search select spinner tree wizard).freeze
+	SCRIPTS = %w( util checkbox combobox datagrid datepicker intelligent-dropdown pillbox loader
+								radio scheduler search select spinner tree wizard).freeze
 
 	STYLESHEETS_REPO = "https://raw.github.com/ExactTarget/fuelux/%s/src/less/%s.less"
 	STYLESHEETS_PATH = "./vendor/toolkit/fuelux/%s.less"
